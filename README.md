@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing, developing and deploying web applications and services using docker and kubernetes
 - 🌱 I’m currently learning amazon web services
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: You can email me
 
 <!---
 vpistola/vpistola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
